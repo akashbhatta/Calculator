@@ -4,6 +4,12 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-image: url(git\ img.avif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+}
 }
 
 
